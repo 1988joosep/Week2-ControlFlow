@@ -1,0 +1,14 @@
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.exe
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.deps.json
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.runtimeconfig.json
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.dll
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.pdb
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.AssemblyInfoInputs.cache
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.AssemblyInfo.cs
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.csproj.CoreCompileInputs.cache
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.dll
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\refint\UserGenderValidation.dll
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.pdb
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.genruntimeconfig.cache
+C:\Users\Joosep\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\ref\UserGenderValidation.dll
